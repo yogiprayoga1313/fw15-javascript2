@@ -10,10 +10,11 @@ const age = 30;
 
 function Umurku() {
     console.log(age)
-} if (age === 25) {
-    console.log('Umur kamu sekarang ' + age)
-} else {
-    console.log('Masukan umur yang benar !!')
+    if (age === 25) {
+        console.log('Umur kamu sekarang ' + age)
+    } else {
+        console.log('Masukan umur yang benar !!')
+    }
 }
 
 console.log(age)
@@ -48,13 +49,13 @@ function MyData() {
 
     if (MyName == 'dewa') {
         const greetings = 'haloo ' + MyName;
-        console.log(gretings)
+        console.log(greetings)
     } else {
-       console.log('kamu bukan dewa')
-        
+        console.log('kamu bukan dewa')
+
         console.log(greetings)
     }
-}   
+}
 
 MyData()
 // console.log(greetings)
