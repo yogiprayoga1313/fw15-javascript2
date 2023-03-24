@@ -76,3 +76,4 @@ const Kata = ['aku', 'sayang' ,'kamu'];
 const lastKata = kata.pop(); // Output: 2
 console.log(kata); // Output: [aku, sayang]
 console.log(lastKata); // Output: kamu
+f
