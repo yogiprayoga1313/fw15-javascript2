@@ -18,7 +18,7 @@ function Umurku() {
 }
 
 console.log(age)
-// untuk menampilkan data di console kita harus memanggil detanya dengan menulis perintah console.log, apabila kita tidak menuliskan perintah console.log tidak akan tampil diconsole
+// untuk menampilkan data di console kita harus memanggil datanya dengan menulis perintah console.log, apabila kita tidak menuliskan perintah console.log tidak akan tampil diconsole
 // Umurku()
 // Tapi apabila kita hanya memanggil funsinya saja makan yang akan sitampilkan di console adalah undifine/eror karena variable dari age tersebut terdapat diluar dari function atau block
 
@@ -37,7 +37,7 @@ function DataDiriku() {
 // console.log(MyName)
 // apabila kita memanggil var Myname dengan console.log maka diconsole tidak akan tampil atau undifiend karean variablenya berapa didalam function
 DataDiriku()
-// tapi jika kita ingin menampilkan data diatas delam console makan kita harus menanggil fungsinya
+// tapi jika kita ingin menampilkan data diatas dalam console makan kita harus memanggil fungsinya
 
 
 // Block Scope
@@ -59,5 +59,5 @@ function MyData() {
 
 MyData()
 // console.log(greetings)
-// untuk block scope apbila kita ingin menampilkan data diconsole makan kita harus menaggil fungsi dari mydata yg berisi variable const,tapi untuk console.log sendiri tidak akan-
+// untuk block scope apbila kita ingin menampilkan data diconsole makan kita harus memanggil fungsi dari mydata yg berisi variable const,tapi untuk console.log sendiri tidak akan-
 // tampil karena variablenya terdapat diluar block dari function.

@@ -11,7 +11,7 @@ console.log(number)
 const animal = ['cat', 'dog', 'lion']
 animal.reverse()
 console.log(animal)
-// output [ lion, god, cat]
+// output [ lion, dog, cat]
 
 // 3. push : menambahkan satu atau beberapa elemen baru pada akhir suatu array.
 
@@ -76,4 +76,4 @@ const Kata = ['aku', 'sayang' ,'kamu'];
 const lastKata = kata.pop(); // Output: 2
 console.log(kata); // Output: [aku, sayang]
 console.log(lastKata); // Output: kamu
-f
+
